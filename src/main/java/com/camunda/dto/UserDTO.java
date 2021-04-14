@@ -12,6 +12,7 @@ public class UserDTO {
 	private String lastName;
 //	public String email;
 //	public String avatar;
+
 	public int getId() {
 		return id;
 	}
